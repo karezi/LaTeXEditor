@@ -11,8 +11,9 @@ LaTeXEditor（LaTeX编辑器）
 1. 更新了对Snap View的支持。
 2. 添加了公式图片背景颜色的选择。
 
-## Links
+## Link
 * [LaTeX Editor](http://apps.microsoft.com/windows/zh-cn/app/latex-editor/16464211-ccbd-495f-92f1-f89a21d09d84)
 
 ## Contributors
 * [Karezi](http://karez1.com/)
+* ZTQ（倾情翻译）
